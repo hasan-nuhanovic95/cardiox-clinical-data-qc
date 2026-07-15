@@ -505,15 +505,15 @@ openpyxl
 
 ### QC Summary
 
-![QC Summary](docs/qc_summary.png)
+![QC Summary](docs/qc_summary.PNG)
 
 ### ALT Safety Listing
 
-![ALT Safety Listing](docs/alt_safety_listing.png)
+![ALT Safety Listing](docs/alt_safety_listing.PNG)
 
 ### EDC vs Lab Vendor Reconciliation
 
-![EDC Lab Reconciliation](docs/edc_recon.png)
+![EDC Lab Reconciliation](docs/edc_recon.PNG)
 
 ## Key Skills Demonstrated
 
